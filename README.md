@@ -1,3 +1,3 @@
 # killyourmasters
 
-[https://github.com/haveboard/kill-your-masters/]
+(https://github.com/haveboard/kill-your-masters/)
